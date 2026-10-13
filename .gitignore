@@ -1,0 +1,15 @@
+# Python-generated files
+__pycache__/
+*.py[cod]
+
+# Locally compiled native binaries
+kamal-xtrx-capture-proto-v[0-9]*
+!kamal-xtrx-capture-proto-v[0-9]*.c
+
+# SDR capture/runtime artifacts
+*.raw
+*.log
+
+# Common editor/runtime leftovers
+*.swp
+*~
